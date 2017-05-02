@@ -7,4 +7,4 @@
 
 ##如何预览
 
-点击
+点击 https://humoryi.github.io/blogs/.
